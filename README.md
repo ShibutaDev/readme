@@ -12,8 +12,6 @@
 
 <br clear="both">
 
-<img align="right" height="230" src=["https://i.imgflip.com/65efzo.gif" ](https://imgflip.com/gif/9i8e5y) />
-
 ###
 
 <p align="left">💻 Learning web development <br>🎓 Final-year Computer Engineering student at UNIVESP<br>🎮 Hobbies: Gaming and listening to music</p>
