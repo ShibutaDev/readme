@@ -1,13 +1,9 @@
 <h1 align="left">Hello world!  What's up?</h1>
-
-###
-
 <p align="left">My name is Vinicius Shibuta, I am a beginner Web Development student, and I live in Presidente Prudente - SP, Brazil.</p>
 
 ###
 
 <h2 align="left">About me</h2>
-
 <p align="left">💻 Learning web development <br>🎓 Final-year Computer Engineering student at UNIVESP<br>🎮 Hobbies: Gaming and listening to music</p>
 
 ###
@@ -43,7 +39,7 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://open.spotify.com/user/shibuta9">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=shibuta9&count=5" alt="Spotify recently played"  />
   </a>
