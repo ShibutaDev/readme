@@ -8,12 +8,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<br clear="both">
-
-###
-
 <p align="left">💻 Learning web development <br>🎓 Final-year Computer Engineering student at UNIVESP<br>🎮 Hobbies: Gaming and listening to music</p>
 
 ###
